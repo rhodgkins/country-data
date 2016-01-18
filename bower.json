@@ -34,6 +34,6 @@
   },
   "dependencies": {
     "underscore": ">1.4.4",
-    "currency-symbol-map": "~2"
+    "currency-symbol-map": "rhodgkins/currency-symbol-map#bower"
   }
 }
